@@ -39,6 +39,11 @@ input[type="button"] {
 
 }
 
+input[type="button"]:active {
+  box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.63);
+
+}
+
 
 @keyframes gradientBG {
   0% {
